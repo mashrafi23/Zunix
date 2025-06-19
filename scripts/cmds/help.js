@@ -1,7 +1,7 @@
  const { commands } = global.GoatBot;
 
-const ADMIN_UID = "61576212342334";
-const IMAGE_URL = "https://files.catbox.moe/63nu8l.jpg";
+const ADMIN_UID = "61577394449732";
+const IMAGE_URL = "https://files.catbox.moe/bp5avi.mp4";
 
 const ITEMS_PER_PAGE = 10;
 
@@ -73,7 +73,7 @@ module.exports = {
         body += `${sep}\n`;
       });
 
-      body += `${mid} BOTNAME : SumoHaYO ❤️‍🩹\n${bottom}`;
+      body += `${mid} BOTNAME : আম্মু 😌🌸\n${bottom}`;
 
       return message.reply({ body, attachment: await global.utils.getStreamFromURL(IMAGE_URL) });
     }
