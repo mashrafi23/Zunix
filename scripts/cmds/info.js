@@ -32,11 +32,11 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "🕸️ 𝐒𝐩𝐢𝐝𝐞𝐘🕷️";
-    const authorName = "Evaan";
-    const authorFB = "fb.com/mahi68x";
-    const authorInsta = "raadx102";
-    const status = "𝗦𝗶𝗻𝗴𝗹𝗲";
+    const botName = "আম্মু 😌🌸";
+    const authorName = "𝗔𝗗𝗜";
+    const authorFB = "fb.com/oxyprimaa007x";
+    const authorInsta = "Personal";
+    const status = "𝗦𝗶𝗻𝗴𝗹𝗲 𝗣𝗿𝗼 𝗠𝗮𝘅";
 
     const now = moment().tz('Asia/Dhaka');
     const time = now.format('h:mm:ss A');
@@ -52,16 +52,16 @@ module.exports = {
     const body = `
 
 ┏━━━━━━━━━━━━━━━━┓
-┃ 🧑 Admin Info
-┃ ╰➤ Name: ${authorName}
-┃ ╰➤ Facebook: ${authorFB}
-┃ ╰➤ Instagram: ${authorInsta}
-┃ ╰➤ Status: ${status}
+┃ ⚙️Owner Info
+┃ ➤ Name: ${authorName}
+┃ ➤ Facebook: ${authorFB}
+┃ ➤ Instagram: ${authorInsta}
+┃ ➤ Status: ${status}
 ┃
-┃ 🤖 Bot Details
-┃ ╰➤ Name: ${botName}
-┃ ╰➤ Time: ${time}
-┃ ╰➤ Uptime: ${uptimeString}
+┃ ⚙️ Bot Details
+┃ ➤ Name: ${botName}
+┃ ➤ Time: ${time}
+┃ ➤ Uptime: ${uptimeString}
 ┗━━━━━━━━━━━━━━━━┛
 
 I may not be perfect,
