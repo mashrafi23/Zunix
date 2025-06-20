@@ -9,13 +9,13 @@
 
 ## 👑 Author Info
 
-- 👤 Name: Mahi
-- 🎂 Age: 16
-- 🏫 Class: 11
-- 🌍 From: Bangladesh
-- 📘 Facebook: [Click Here](https://facebook.com/mahi68x)
-- 💻 GitHub: [github.com/itachi-prime99](https://github.com/prime-eren99)
-- 🧠 _"If you win, you live. If you lose, you die. If you don’t fight, you can’t win!"_ — **Eren Yeager**
+- 👤 Name: Adi
+- 🎂 Age: 18
+- 🏫 Class: 12
+- 🌍 From: Chittagong, Bangladesh
+- 📘 Facebook: [Click Here](https://www.facebook.com/oxyyprimaatvtx)
+- 💻 GitHub: [github.com/itachi-prime99](https://github.com/cursedoxy69)
+- 🧠 _"YEAP, I'd Win"_ — 'Oxytraa'
 
 ---
 
