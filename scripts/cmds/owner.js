@@ -24,7 +24,7 @@ config: {
       nick: '𝗢𝗫𝗬 '
     };
 
-    const bold = 'https://files.catbox.moe/yqqdtf.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
+    const bold = 'https://files.catbox.moe/77cx9j.jpg'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
 
     const tmpFolderPath = path.join(__dirname, 'tmp');
 
@@ -38,7 +38,7 @@ config: {
     fs.writeFileSync(videoPath, Buffer.from(videoResponse.data, 'binary'));
 
     const response = ` 
-╭[ .  ]•〆 ᵀᴬᴺᴶᴵᴸ 〆 ]  ─⦿
+𝗢𝗫𝗬𝗧𝗥𝗔𝗔💙
 ╭────────────
  ⚙️𝐁𝐨𝐭 & 𝐎𝐰𝐧𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
  𝐍𝐚𝐦𝐞: ${ownerInfo.name}
